@@ -10,20 +10,13 @@
 
 This project is a **full-stack web application** developed using **React** for the frontend and **Flask** for the backend. The application has several key features, including a login page, a chatbot page displaying fruit details, a language translator, an FAQ section with CRUD functionality, and an about page. The application is responsive and mobile-friendly.
 
-### 🚀 Live Demo
-
-- **Frontend (Deployed on Netlify):** https://frruuitaii.netlify.app/
-- **Backend (Deployed on Render):** https://fruit-ai-15zg.onrender.com/
-
 ---
 
 ## 🧭 Table of Contents
 
 1. [Login Credentials](#login-credentials-for-demo)
-2. [Project Overview](#project-overview)
-3. [Live Demo](#live-demo)
-4. [Frontend Features](#frontend-features)
-5. [Backend Features](#backend-features)
+2. [Frontend Features](#frontend-features)
+3. [Backend Features](#backend-features)
 
 
 ---
